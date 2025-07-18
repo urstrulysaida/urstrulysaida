@@ -41,7 +41,47 @@ Leadership • Communication • Team Collaboration
 
 ---
 
-## 📊 **GitHub Stats**
+## 🔍 **Currently Learning From**
+
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/"><img src="https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a> 
+  <a href="https://learn.microsoft.com/en-us/training/"><img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a> 
+  <a href="https://aws.amazon.com/training/"><img src="https://img.shields.io/badge/AWS%20Skill%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/learning/"><img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" /></a> 
+</p>
+
+---
+
+## 🧰 **GitHub Actions & Build Status**
+
+![Last Commit](https://img.shields.io/github/last-commit/urstrulysaidA/urstrulysaidA?style=for-the-badge&color=green&logo=git)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/urstrulysaidA/urstrulysaidA/main.yml?label=Build&logo=github&style=for-the-badge)
+
+> _**Note:** Update `main.yml` to match your workflow file name if needed._
+
+---
+
+## 🏆 **Certifications**
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud Fundamentals](https://img.shields.io/badge/Google%20Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+> _**Note:** You can add more certifications or customize names._
+
+---
+
+## 🌐 **Portfolio & Links**
+
+<p align="center">
+  <a href="https://bento.me/urstrulysaidA"><img src="https://img.shields.io/badge/Bento-Portfolio-%23FF5F5F?style=for-the-badge&logo=bento&logoColor=white"></a>
+  <a href="https://your-personal-website.com"><img src="https://img.shields.io/badge/Website-Visit-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+---
+
+## 📊 **GitHub Stats & Analytics**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=urstrulysaidA&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -49,6 +89,18 @@ Leadership • Communication • Team Collaboration
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=urstrulysaidA&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulysaidA&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=urstrulysaidA&theme=radical" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=urstrulysaidA&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -59,7 +111,6 @@ Leadership • Communication • Team Collaboration
   <a href="https://www.linkedin.com/in/shaiksaidavali"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/UrstrulysaidA_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://wa.me/917674012184?text=hi"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://bento.me/urstrulysaidA"><img src="https://img.shields.io/badge/Bento-%23FF5F5F.svg?style=for-the-badge&logo=bento&logoColor=white"/></a>
 </p>
 
 ---
