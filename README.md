@@ -81,7 +81,7 @@ Leadership • Communication • Team Collaboration
 
 <p align="center">
   <a href="https://bento.me/urstrulysaidA"><img src="https://img.shields.io/badge/Bento-Portfolio-%23FF5F5F?style=for-the-badge&logo=bento&logoColor=white"></a>
-  <a href="https://your-personal-website.com"><img src="https://img.shields.io/badge/Website-Visit-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  
 </p>
 
 ---
