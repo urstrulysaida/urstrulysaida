@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=light" alt="roadmap.sh"/></a>
 ## 🛠️ **Tech Stack & Skills**
 
 **Cloud Platforms:**  
