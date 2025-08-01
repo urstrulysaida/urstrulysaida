@@ -119,6 +119,12 @@ Leadership • Communication • Team Collaboration
 
 > _**Note:** You can add more certifications or customize names._
 
+
+
+## 🏅MY Credly Certifications
+
+[![Credly](https://img.shields.io/badge/View%20My-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/shaik-saida-vali)
+
 ---
 
 ## 🌐 **Portfolio & Links**
@@ -244,18 +250,10 @@ Profile views
 </div>
 
 ---
+---
 
-## 🏅 Certifications
+## 🏅MY Credly Certifications
 
 [![Credly](https://img.shields.io/badge/View%20My-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/shaik-saida-vali)
 
-
-## 🛡️ Google Certifications
-
-### 🟢 Google Cybersecurity Professional Certificate (v2)
-
-[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/04a6feaf-b293-43e3-8437-6f55cab92478/public_url)
-
-<!-- Optional image -->
-<!-- <img src="https://github.com/yourusername/yourrepo/blob/main/certs/google-cybersecurity.png?raw=true" width="300" alt="Google Cybersecurity Certificate Badge" /> -->
-
+---
