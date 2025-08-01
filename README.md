@@ -36,10 +36,6 @@
 </div>
 
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shaiksaidavali)
-
-
 ## 🛠️ **Tech Stack & Skills**
 
 **Cloud Platforms:**  
