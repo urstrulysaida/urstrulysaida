@@ -211,10 +211,4 @@ Profile views
 </div>
 
 ---
----
 
-## 🏅MY Credly Certifications
-
-[![Credly](https://img.shields.io/badge/View%20My-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/shaik-saida-vali)
-
----
