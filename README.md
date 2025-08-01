@@ -88,6 +88,9 @@ Leadership • Communication • Team Collaboration
 
 [![Google Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-34A853?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID)
 
+[![Google Data Analytics ](https://img.shields.io/badge/Google%20Data%20Analytics-34A853?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID)
+
+[![Google Cyber Security ](https://img.shields.io/badge/Google%20Cyber%20Security-34A853?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID)
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud Fundamentals](https://img.shields.io/badge/Google%20Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
