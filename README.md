@@ -244,3 +244,8 @@ Profile views
 </div>
 
 ---
+
+## 🎓 Certifications
+
+### 🟢 Google Data Analytics Certificate  
+[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID)
