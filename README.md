@@ -12,7 +12,7 @@
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=light" alt="roadmap.sh"/></a> 
 
-**LINKEDIN**
+## CONNECT WITH ME IN LINKEDIN 
 
 <a href="https://www.linkedin.com/in/shaiksaidavali" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn"/>
@@ -77,8 +77,7 @@ Leadership • Communication • Team Collaboration
 
 ---
 
-## 🏆 **Certifications**  🏅 ## 
-
+## 🏆 **Certifications**  🏅 ##
 
 
 <a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_ID" target="_blank">
