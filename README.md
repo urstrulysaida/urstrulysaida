@@ -181,33 +181,66 @@ Leadership • Communication • Team Collaboration
 </div>
 
 ###
----
 
 ---
-## CONNECT WITH ME IN LINKEDIN 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shaiksaidavali/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  
-  <a href="https://x.com/Urstrulysaida_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+## 🔗 Connect with me
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shaiksaidavali/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@Urstrulysaida" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik_Saida_vali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaiksaidavali/)
+
+## 📸 Instagram
+
+<p align="left">
   <a href="https://www.instagram.com/urstrulysaida/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
   </a>
-  <a href="@Urstrulysaida" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
+</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulysaida/)
+
+## 💬 WhatsApp
+
+<p align="left">
   <a href="https://wa.me/917674012184?text=hi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" alt="WhatsApp" />
   </a>
+</p>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917674012184?text=hi)
+
+## 🐦 Twitter (X)
+
+<p align="left">
+  <a href="https://x.com/Urstrulysaida_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
+  </a>
+</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Urstrulysaida_)
+
+## 📺 YouTube
+
+<p align="left">
+  <a href="https://www.youtube.com/@Urstrulysaida" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="YouTube" />
+  </a>
+</p>
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Urstrulysaida)
+
+---
+Profile views 
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=urstrulysaida.urstrulysaida&"  />
 </div>
 
-
 ---
-
-
