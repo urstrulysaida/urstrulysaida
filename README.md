@@ -5,6 +5,11 @@
 </p>
 
 ---
+## 🛣️ MY ROADMAP
+
+[![Roadmap](https://img.shields.io/badge/🚀%20View-Roadmap-orange?style=for-the-badge)](https://github.com/shaiksaidavali/shaiksaidavali/blob/main/roadmap.md)
+
+
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=light" alt="roadmap.sh"/></a> 
 
 **LINKEDIN**
@@ -72,7 +77,18 @@ Leadership • Communication • Team Collaboration
 
 ---
 
-## 🏆 **Certifications**
+## 🏆 **Certifications**  🏅 ## 
+
+
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/YOUR_ID" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Certificate" width="40"/>
+</a>
+
+
+
+[![Google Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-34A853?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID)
+
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud Fundamentals](https://img.shields.io/badge/Google%20Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
