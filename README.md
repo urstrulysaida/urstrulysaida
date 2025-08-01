@@ -7,14 +7,9 @@
 ---
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=light" alt="roadmap.sh"/></a> 
 
+**LINKEDIN**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shaiksaidavali)
-
-<a href="https://www.linkedin.com/in/shaiksaidavali" target="_blank">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFLzD-badgelink/logo?e=1690243200&v=beta&t=yourtoken" width="100px;" alt="LinkedIn Profile"/><br />
-  <sub><b>Shaik Saida vali</b></sub>
-</a>
-
 
 
 ## 🛠️ **Tech Stack & Skills**
