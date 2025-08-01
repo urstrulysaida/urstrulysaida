@@ -6,6 +6,10 @@
 
 ---
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=light" alt="roadmap.sh"/></a>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="shaiksaidavali" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shaiksaidavali?trk=profile-badge">Shaik Saida vali</a></div>
+
+
 ## 🛠️ **Tech Stack & Skills**
 
 **Cloud Platforms:**  
