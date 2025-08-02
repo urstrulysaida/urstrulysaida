@@ -92,13 +92,23 @@ Leadership • Communication • Team Collaboration
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik_Saida_Vali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaiksaidavali/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulysaida/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917674012184?text=hi)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Urstrulysaida_)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Urstrulysaida)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaiksaidavali/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaik_Saida_Vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/urstrulysaida/">
+    <img src="https://img.shields.io/badge/Instagram-@urstrulysaida-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/917674012184?text=hi">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://x.com/Urstrulysaida_">
+    <img src="https://img.shields.io/badge/Twitter-@Urstrulysaida_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/@Urstrulysaida">
+    <img src="https://img.shields.io/badge/YouTube-@Urstrulysaida-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
 ## 👀 Profile Views
 
