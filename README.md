@@ -57,14 +57,26 @@ Leadership • Communication • Team Collaboration
 
 ## 🏆 Certifications
 
-[![Credly](https://img.shields.io/badge/View%20My-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/shaik-saida-vali)
+<p align="center">
+  <a href="https://www.credly.com/users/shaik-saida-vali" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+</p>
 
-[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-34A853?style=for-the-badge&logo=google)](https://www.credly.com/badges/04a6feaf-b293-43e3-8437-6f55cab92478/public_url)  
-[![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google)](https://www.credly.com/badges/04a6feaf-b293-43e3-8437-6f55cab92478/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/04a6feaf-b293-43e3-8437-6f55cab92478/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" />
+  </a>
+  <a href="https://www.credly.com/badges/04a6feaf-b293-43e3-8437-6f55cab92478/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity" />
+  </a>
+</p>
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Google Cloud Fundamentals](https://img.shields.io/badge/Google%20Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Fundamentals" />
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+</p>
 
 ---
 
