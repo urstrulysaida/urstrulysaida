@@ -6,7 +6,7 @@
 
 ---
 
-🛣️ MY ROADMAP
+## 🛣️ MY ROADMAP
 
 [![Roadmap](https://img.shields.io/badge/🚀%20View-Roadmap-orange?style=for-the-badge)](https://github.com/shaiksaidavali/shaiksaidavali/blob/main/roadmap.md)
 
