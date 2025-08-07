@@ -101,7 +101,7 @@
 
 ---
 
-# PROFILE VIEWS
+## PROFILE VIEWS
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=urstrulysaida&label=Profile%20views&color=0e75b6&style=flat" alt="urstrulysaida" />
 </div>
@@ -122,3 +122,15 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+
+---
+
+
+#### Drive certificate's
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='30'>](https://drive.google.com/drive/folders/1A8fdHa93p_IX03SVieKXrdxPiRJc1w6O?usp=drive_link) 
+#### Youtube channel
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='30'>](https://www.youtube.com/@Urstrulysaida) 
+#### Whatsapp Message 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='30'>](https://wa.me/917674012184?text=hi) 
+#### coursera Profile
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='30'>](https://www.coursera.org/learner/shaiksaidavali)
