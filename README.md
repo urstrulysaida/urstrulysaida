@@ -82,22 +82,23 @@
 </div>
 
 ---
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<div align="center">
-  <a href="https://linkedin.com/in/shaiksaidavali">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/Urstrulysaida_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:urstrulysaida@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://bento.me/urstrulysaidA">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white"/>
-  </a>
-</div>
+<div align="middle">
+
+### 💼 Professional
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/shaiksaidavali)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://twitter.com/Urstrulysaida_)
+
+### 📩 Contact
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:urstrulysaida@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black)](https://wa.me/917674012184?text=hi)
+
+### 🎓 Learning
+[![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=black)](https://www.coursera.org/learner/shaiksaidavali)
+
+### 📁 certificate's 
+[![Google Drive](https://img.shields.io/badge/-Certificates-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=black)](https://drive.google.com/drive/folders/1A8fdHa93p_IX03SVieKXrdxPiRJc1w6O?usp=drive_link)
 
 ---
 
@@ -124,13 +125,3 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 
 ---
-
-
-#### Drive certificate's
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='30'>](https://drive.google.com/drive/folders/1A8fdHa93p_IX03SVieKXrdxPiRJc1w6O?usp=drive_link) 
-#### Youtube channel
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='30'>](https://www.youtube.com/@Urstrulysaida) 
-#### Whatsapp Message 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='30'>](https://wa.me/917674012184?text=hi) 
-#### coursera Profile
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='30'>](https://www.coursera.org/learner/shaiksaidavali)
