@@ -198,36 +198,37 @@
 ---
 ## 🌐 Let's Connect  
 
-<div align="">
+<div align="left">
 
 ### 💼 Professional  
-<a href="https://linkedin.com/in/shaiksaidavali">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:12px;"/>
+<a href="https://linkedin.com/in/shaiksaidavali" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn" style="border-radius:12px;"/>
 </a>
-<a href="https://twitter.com/Urstrulysaida_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius:12px;"/>
+&nbsp;
+<a href="https://twitter.com/Urstrulysaida_" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="48" alt="Twitter" style="border-radius:12px;"/>
 </a>
 
 ### 📩 Contact  
-<a href="mailto:urstrulysaida@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius:12px;"/>
+<a href="mailto:urstrulysaida@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Gmail" style="border-radius:12px;"/>
 </a>
-<a href="https://wa.me/917674012184?text=hi">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius:12px;"/>
+&nbsp;
+<a href="https://wa.me/917674012184?text=hi" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" alt="WhatsApp" style="border-radius:12px;"/>
 </a>
 
 ### 🎓 Learning  
-<a href="https://www.coursera.org/learner/shaiksaidavali">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" style="border-radius:12px;"/>
+<a href="https://www.coursera.org/learner/shaiksaidavali" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Coursera_logo.png" width="48" alt="Coursera" style="border-radius:12px;"/>
 </a>
 
 ### 📁 Certificates  
-<a href="https://drive.google.com/drive/folders/1A8fdHa93p_IX03SVieKXrdxPiRJc1w6O?usp=drive_link">
-    <img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificates" style="border-radius:12px;"/>
+<a href="https://drive.google.com/drive/folders/1A8fdHa93p_IX03SVieKXrdxPiRJc1w6O?usp=drive_link" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-drive--v1.png" width="48" alt="Certificates" style="border-radius:12px;"/>
 </a>
 
 </div>
-
 
 
 ## 👀 Profile Views  
