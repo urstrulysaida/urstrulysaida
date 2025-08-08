@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
 
-## 🚀 About Me
+🚀 **About Me**
 - 🔭 I’m currently working on Building and refining my GitHub portfolio to showcase my certifications, cloud projects, and DevOps skills. 
 - 🌱 I’m currently learning Google Cloud, Python for automation, DevOps tools (Docker, Kubernetes, Terraform), and system design principles 
 - 👯 I’m looking to collaborate on Open-source cloud automation projects, DevOps workflows, and Python-based tools for cloud infrastructure. 
