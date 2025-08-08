@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Cloud+Solutions;Automating+Infrastructure;Learning+Something+New+Everyday" alt="Typing SVG" />
   </a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500">
 
 
 🚀 **About Me**
@@ -20,6 +20,9 @@
 - 📫 How to reach me: Email | linkedin |  
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I once automated a full cloud deployment with Python and Terraform before my coffee went cold ☕
+- Let's Catch
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<br><br>
 
 ---
 ## 🛣️ MY LEARNING ROADMAP
