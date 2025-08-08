@@ -26,12 +26,16 @@
 
 ---
 
-## 🛣️ MY LEARNING ROADMAP
+## 🛣️ My Learning Roadmap
 
-[![Roadmap](https://img.shields.io/badge/🚀%20View-Roadmap-orange?style=for-the-badge)](https://github.com/shaiksaidavali/shaiksaidavali/blob/main/roadmap.md)
-
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=light" alt="roadmap.sh"/></a> 
+<p align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=light" 
+         alt="My Learning Roadmap" 
+         width="800" 
+         style="border-radius:10px; box-shadow:0 4px 15px rgba(0,0,0,0.2);" />
+  </a>
+</p>
 
 ---
 
