@@ -1,10 +1,14 @@
 <h1 align="center">👋, I'm Shaik Saida Vali</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | Tech Explorer | Lifelong Learner</h3>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Cloud+Solutions;Automating+Infrastructure;Learning+Something+New+Everyday" alt="Typing SVG" /></a>
-</p>
 
----
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Cloud+Solutions;Automating+Infrastructure;Learning+Something+New+Everyday" alt="Typing SVG" />
+  </a>
+</p>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd4cWxvb3RvZTJtcnFpam1oZTMyZTZzeWhxbzRiaWhwa3g0dWozNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+
 ## 🚀 About Me
 - 🔭 I’m currently working on Building and refining my GitHub portfolio to showcase my certifications, cloud projects, and DevOps skills. 
 - 🌱 I’m currently learning Google Cloud, Python for automation, DevOps tools (Docker, Kubernetes, Terraform), and system design principles 
