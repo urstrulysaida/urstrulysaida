@@ -182,18 +182,6 @@
 
 ---  
 
-## 🏅 Certifications  
-
-<p align="center">
-  <a href="https://www.credly.com/users/shaik-saida-vali">
-    <img src="https://img.shields.io/badge/View%20All%20Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=FF6B00&border_radius=12" 
-         alt="Credly Badges" width="320" height="60" style="border-radius:12px;"/>
-  </a>
-</p>
-
-
----
-
 
 ## 👀 Profile Views  
 
