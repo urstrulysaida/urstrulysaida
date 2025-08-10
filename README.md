@@ -234,3 +234,35 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
 </p>
+
+---
+```
+                CLOUD COMPUTING
+                     |
+     -------------------------------------
+     |              |                    |
+ Deployment     Service Models     Key GCP Services
+ Models         (IaaS, PaaS, SaaS) ------------------------
+ (Public,       -----------------  | Compute, App Engine,  |
+ Private,                          | Cloud Functions,      |
+ Hybrid)                           | BigQuery, Cloud SQL   |
+                                   ------------------------
+
+                 +-------------------+
+                 | SaaS              |
+                 | - Gmail           |
+                 | - Google Docs     |
+                 +-------------------+
+                       ↑ uses
+                 +-------------------+
+                 | PaaS              |
+                 | - App Engine      |
+                 | - Cloud Run       |
+                 +-------------------+
+                       ↑ uses
+                 +-------------------+
+                 | IaaS              |
+                 | - Compute Engine  |
+                 | - Cloud Storage   |
+                 +-------------------+
+
