@@ -20,9 +20,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500">
 
 
-## 🚀 About Me  
-- 🔭 Currently building and refining my **GitHub portfolio** to highlight certifications, cloud projects, and DevOps expertise.  
-- 🌱 Learning **Google Cloud**, **Python automation**, DevOps tools (**Docker, Kubernetes, Terraform**), and system design principles.  
+  `About Me`
+- 🔭 Currently building and refining my `GitHub portfolio` to highlight certifications, cloud projects, and DevOps expertise.  
+- 🌱 Learning `Google Cloud`, `Python automation`, **DevOps tools** (``Docker, Kubernetes, Terraform``), and system design principles.  
 - 👯 Open to collaborating on **open-source cloud automation projects**, DevOps workflows, and Python-based infrastructure tools.  
 - 🤔 Seeking insights on **production-grade CI/CD best practices** and contributing to large-scale **cloud-native projects**.  
 - 💬 Ask me about **Google Cloud**, **DevOps fundamentals**, **Python scripting**, **server management**, or breaking into **cloud careers**.  
