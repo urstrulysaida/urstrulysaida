@@ -50,23 +50,28 @@
 
 ## 🛣️ My Learning Roadmap
 
-<p align="center">
-  <a href="https://roadmap.sh" target="_blank">
-    <img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=dark"
-         alt="My Learning Roadmap"
-         width="850"
-         style="
-           border-radius: 15px;
-           box-shadow: 0 6px 20px rgba(0,0,0,0.25);
-           border: 2px solid #4CAF50;
-           transition: transform 0.3s ease, box-shadow 0.3s ease;
-         "
-         onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.3)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.25)';"
-    />
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://roadmap.sh" target="_blank">
+        <img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=dark"
+             alt="My Learning Roadmap"
+             width="95%" />
+      </a>
+      <br>
+      <sub><b>📍 My Learning Roadmap</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/u/urstrulysaida/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/urstrulysaida?theme=unicorn&ext=heatmap,contest&border=0&radius=20"
+             alt="LeetCode Stats"
+             width="95%" />
+      </a>
+      <br>
+      <sub><b>💡 My LeetCode Progress</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
