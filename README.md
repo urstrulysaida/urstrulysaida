@@ -17,7 +17,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Cloud+Solutions;Automating+Infrastructure;Learning+Something+New+Everyday" alt="Typing SVG" />
   </a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Profile.jpeg">
+<img align="right" alt="Coding" width="350" src="https://github.com/urstrulysaida/urstrulysaida/blob/main/https___www.classcentral.com_images__illustrations_homepage-hero_hero-summer.avif">
 
 
   `About Me`
