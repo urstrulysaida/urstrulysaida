@@ -1,14 +1,18 @@
 # Shaik Saida Vali  
 ## Student at Computer Science and Engineering  
 
+<img src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Profile.jpeg" align="right" width="200" style="border-radius:15px;" />
+
 * Avulavaripalem, 522411  
 * Guntur, Andhra Pradesh  
 * +91 7674012184  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaiksaidavali.in@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiksaidavali/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiksaidavali/)  
+
 
 ---
+
 # 🎓 Education  
 
 [![B.Tech](https://img.shields.io/badge/B--Tech-Computer%20Science%20%26%20Engineering-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](#)  
