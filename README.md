@@ -10,12 +10,10 @@ Avulavaripalem, 522411
 Guntur, Andhra Pradesh  
 📞 +91 7674012184
 ```
-
 >[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaiksaidavali.in@gmail.com)  
->>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiksaidavali/)
+>>[![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shaiksaidavali)
 >>>[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%207674012184-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917674012184)
->>>>[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1UBfhBcEI_hzWj1KOlvlD4vjbkhmVV1ZNFayQrkroXZA/edit?usp=sharing)
-
+>>>>[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1UBfhBcEI_hzWj1KOlvlD4vjbkhmVV1ZNFayQrkroXZA/edit?usp=sharing)  
 ---
 
 # 🎓 Education  
