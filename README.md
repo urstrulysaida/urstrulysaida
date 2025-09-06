@@ -1,3 +1,5 @@
+<img src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Banner.jpg" alt="GitHub Banner" width="100%"/>
+
 # Shaik Saida Vali  
 ## Student at Computer Science and Engineering  
 
