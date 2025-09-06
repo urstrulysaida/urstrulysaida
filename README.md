@@ -1,4 +1,4 @@
-<img src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Banner.jpg" alt="GitHub Banner" width="100%"/>
+<!-- ![Master-Header]() --><img  alt="Coding" width="100%" height="350px" margin-left="15%" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 # `Shaik Saida Vali`  
 ## Student at Computer Science and Engineering  
@@ -91,7 +91,28 @@ Guntur, Andhra Pradesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20Saida%20Vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiksaidavali/)  
 
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://roadmap.sh" target="_blank">
+        <img src="https://roadmap.sh/card/wide/651b0fcc1205b5c21b6a74fc?variant=dark"
+             alt="My Learning Roadmap"
+             width="95%" />
+      </a>
+      <br>
+      <sub><b>📍 My Learning Roadmap</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/u/urstrulysaida/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/urstrulysaida?theme=unicorn&ext=heatmap,contest&border=0&radius=20"
+             alt="LeetCode Stats"
+             width="95%" />
+      </a>
+      <br>
+      <sub><b>💡 My LeetCode Progress</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 
