@@ -3,7 +3,7 @@
 # `Shaik Saida Vali`  
 >## Student at Computer Science and Engineering
 >>#### CYBER SECURITY 
-<img src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Profile.jpeg" align="right" width="250" />
+<img src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Profile.jpeg" align="right" width="300" />
 
 ```sh
 Avulavaripalem, 522411  
