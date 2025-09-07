@@ -16,7 +16,7 @@ Guntur, Andhra Pradesh
 >>>>[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1UBfhBcEI_hzWj1KOlvlD4vjbkhmVV1ZNFayQrkroXZA/edit?usp=sharing)  
 ---
 
-# 🎓 Education  
+# 🎓 `Education`  
 
 [![B.Tech](https://img.shields.io/badge/B--Tech-Computer%20Science%20%26%20Engineering-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](#)  
 >## `B-TECH` 
@@ -33,14 +33,14 @@ Guntur, Andhra Pradesh
 
 
 ---
-# 📜 Certifications  
+# 📜 `Certifications`  
 
 [![Cyber Security](https://img.shields.io/badge/Google-Cyber%20Security-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1GQHLGxvDy1Q0kK9evMfOjfEfOn2-fI5A?usp=sharing)  
 [![Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1TzByATBWXBvBsjV-bK1dtFmvAgxE2E5c?usp=drive_link)  
 [![Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-orange?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19PpE3C9AG5eBUGssrH_IAGa7RQlTHzUp?usp=drive_link)  
 [![AWS Cloud Tech](https://img.shields.io/badge/AWS-Cloud%20Tech%20Consultant-red?style=for-the-badge&logo=amazons3&logoColor=white)](https://drive.google.com/drive/folders/1QVr7fmnA-DpbHwySLg4d1lC8sA1RaURP?usp=drive_link)
 --
-# 🏅 Badges 
+# 🏅 `Badges`
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F47B20&lines=Credly+Profile;Google+Developers+Profile)](https://www.credly.com/users/shaik-saida-vali) 
 
 [![Credly](https://img.shields.io/badge/Credentials-Credly-orange?style=social&logo=credly)](https://www.credly.com/users/shaik-saida-vali./badges)  
@@ -49,13 +49,13 @@ Guntur, Andhra Pradesh
 
 ---
 
-# 🏫 AICTE Internship  
+# 🏫 `AICTE Internship`  
 
 [![Zscaler Networking](https://img.shields.io/badge/Zscaler-Networking%20Virtual-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1AmbBgEeqkv45qOzodPugsVUiaunObl2U/view?usp=drive_link)  
 [![Fortinet Security](https://img.shields.io/badge/Fortinet-Network%20Security%20Associate-critical?style=for-the-badge&logo=fortinet&logoColor=white)](https://drive.google.com/file/d/1bGLpt7pwHiEaG9pvlNZnMlv7S35I3q5I/view?usp=drive_link)  
 [![Google AI-ML](https://img.shields.io/badge/Google-AI%20%26%20ML%20Virtual-success?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1O4RZUHQNE9HKNfz8TmnvIsOb81f5jDwp/view?usp=drive_link)
 ---
-# 🚀 Projects  
+# 🚀 `Projects`  
 
 [![Password Strength Tester](https://img.shields.io/badge/Project-Password%20Strength%20Tester-ff69b4?style=for-the-badge&logo=github&logoColor=white)](#)  
 * #### Password Strength Tester  
@@ -69,7 +69,7 @@ Guntur, Andhra Pradesh
 
 #
 
-# 💼 Experience  
+# 💼 `Experience`  
 
 [![Cybersecurity Internship](https://img.shields.io/badge/Internship-Cybersecurity%20%26%20Ethical%20Hacking-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LkavkbMS0g6BfP-QAjf9C9QE_IsrGSVv/view?usp=drive_link)  
 >## Innovate Intern , Student Internship `Cybersecurity & Ethical Hacking`  
@@ -92,11 +92,11 @@ Guntur, Andhra Pradesh
 
 ---
 
-# 🌐 Social Media  
+# 🌐 `Social Media`  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20Saida%20Vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiksaidavali/)  
 
-### 🛣️ My Learning Roadmap
+# 🛣️`My Learning Roadmap`
 <table>
   <tr>
     <td align="center" width="50%">
