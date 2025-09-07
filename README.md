@@ -1,8 +1,8 @@
 <!-- ![Master-Header]() --><img  alt="Coding" width="100%" height="350px" margin-left="15%" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 # `Shaik Saida Vali`  
-## Student at Computer Science and Engineering  
-
+>## Student at Computer Science and Engineering
+>>#### CYBER SECURITY 
 <img src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Profile.jpeg" align="right" width="250" />
 
 ```sh
@@ -19,17 +19,17 @@ Guntur, Andhra Pradesh
 # 🎓 Education  
 
 [![B.Tech](https://img.shields.io/badge/B--Tech-Computer%20Science%20%26%20Engineering-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](#)  
-#### B-TECH  
-> Kakinada Institute of Engineering and Technology  
->> Location: Andhra Pradesh, Kakinada - Korangi - 533461  
+>## `B-TECH` 
+>>### Kakinada Institute of Engineering and Technology  
+>>>#### Location: Andhra Pradesh, Kakinada - Korangi - 533461  
 
 ---
 
 [![School](https://img.shields.io/badge/High%20School-ZPHS%20School-green?style=for-the-badge&logo=googlescholar&logoColor=white)](#)  
-#### 10TH  
-> ZPHS School  
->> Location: Andhra Pradesh, Guntur, Dodularu - 522410  
->>>Classes: 6 – 10th  
+>## `10TH`  
+>>### ZPHS School  
+>>>#### Location: Andhra Pradesh, Guntur, Dodularu - 522410  
+>>>>#### Classes: 6 – 10th  
 
 
 ---
@@ -38,7 +38,14 @@ Guntur, Andhra Pradesh
 [![Cyber Security](https://img.shields.io/badge/Google-Cyber%20Security-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1GQHLGxvDy1Q0kK9evMfOjfEfOn2-fI5A?usp=sharing)  
 [![Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1TzByATBWXBvBsjV-bK1dtFmvAgxE2E5c?usp=drive_link)  
 [![Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-orange?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19PpE3C9AG5eBUGssrH_IAGa7RQlTHzUp?usp=drive_link)  
-[![AWS Cloud Tech](https://img.shields.io/badge/AWS-Cloud%20Tech%20Consultant-red?style=for-the-badge&logo=amazons3&logoColor=white)](https://drive.google.com/drive/folders/1QVr7fmnA-DpbHwySLg4d1lC8sA1RaURP?usp=drive_link)  
+[![AWS Cloud Tech](https://img.shields.io/badge/AWS-Cloud%20Tech%20Consultant-red?style=for-the-badge&logo=amazons3&logoColor=white)](https://drive.google.com/drive/folders/1QVr7fmnA-DpbHwySLg4d1lC8sA1RaURP?usp=drive_link)
+--
+# 🏅 Badges 
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F47B20&lines=Credly+Profile;Google+Developers+Profile)](https://www.credly.com/users/shaik-saida-vali) 
+
+[![Credly](https://img.shields.io/badge/Credentials-Credly-orange?style=social&logo=credly)](https://www.credly.com/users/shaik-saida-vali./badges)  
+
+[![Google Developers](https://img.shields.io/badge/Google%20Developers-Profile-blue?style=social&logo=google)](https://g.dev/urstrulysaida)
 
 ---
 
@@ -65,23 +72,23 @@ Guntur, Andhra Pradesh
 # 💼 Experience  
 
 [![Cybersecurity Internship](https://img.shields.io/badge/Internship-Cybersecurity%20%26%20Ethical%20Hacking-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LkavkbMS0g6BfP-QAjf9C9QE_IsrGSVv/view?usp=drive_link)  
-### Innovate Intern , Student Internship `Cybersecurity & Ethical Hacking`  
-> Month: 03-May-2025 to 12-July-2025  
->> Completed a 10 Week internship  
+>## Innovate Intern , Student Internship `Cybersecurity & Ethical Hacking`  
+>>### Month: 03-May-2025 to 12-July-2025  
+>>>#### Completed a 10 Week internship  
 
 ---
 
 [![Cloud Internship](https://img.shields.io/badge/Internship-Cloud%20Computing%20on%20GCP-orange?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xbeF-RusGvEKylOF6wELgnYVunS5x8RO/view?usp=drive_link)  
-### Innovate Intern , Student Internship `Cloud Computing on Google Cloud`  
-> Month: Mar-2025 – May-2025  
->> Completed an 8 Week internship  
+>## Innovate Intern , Student Internship `Cloud Computing on Google Cloud`  
+>>### Month: Mar-2025 – May-2025  
+>>>#### Completed an 8 Week internship  
 
 ---
 
 [![IoT Internship](https://img.shields.io/badge/Internship-Internet%20of%20Things-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1d1Rgjnw9mvVhVQJCXOZSz5bQRpthl33-/view?usp=drive_link)  
-### Innovate Intern , Student Internship `Internship in Internet of Things`  
-> Month: Oct-2024 – Feb-2025  
->> Completed a 16 Week internship  
+>## Innovate Intern , Student Internship `Internship in Internet of Things`  
+>>### Month: Oct-2024 – Feb-2025  
+>>>#### Completed a 16 Week internship  
 
 ---
 
@@ -89,7 +96,7 @@ Guntur, Andhra Pradesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20Saida%20Vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiksaidavali/)  
 
-## 🛣️ My Learning Roadmap
+### 🛣️ My Learning Roadmap
 <table>
   <tr>
     <td align="center" width="50%">
@@ -112,6 +119,8 @@ Guntur, Andhra Pradesh
     </td>
   </tr>
 </table>
+
+
 
 
 
