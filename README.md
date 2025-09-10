@@ -13,7 +13,7 @@ Guntur, Andhra Pradesh
 >>[![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shaiksaidavali)
 >>>[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%207674012184-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917674012184)
 >>>>[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1UBfhBcEI_hzWj1KOlvlD4vjbkhmVV1ZNFayQrkroXZA/edit?usp=sharing)
->>>>>[![Submit Form](https://img.shields.io/badge/Submit%20Form-Click%20Here-6f42c1?style=for-the-badge&logo=google)](https://forms.gle/pjgGVqHYZ8jT1j8U8)
+>>>>>[![Submit Form](https://img.shields.io/badge/Submit%20Form-Click%20Here-6f42c1?style=for-the-badge&logo=google-forms)](https://forms.gle/pjgGVqHYZ8jT1j8U8)
 ---
 
 # 🎓 `Education`  
