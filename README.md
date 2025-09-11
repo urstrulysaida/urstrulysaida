@@ -103,6 +103,14 @@ Guntur, Andhra Pradesh
 
 ---
 
+# 🔭 `Currently Working On`  
+
+[![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)  
+[![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0F9D58?style=for-the-badge&logo=cloudflare&logoColor=white)](#)  
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)  
+
+>## Actively building knowledge and projects in **Cloud Computing, Cloud Architecture, and Data Analytics**.  
+
 # 🌐 `Social Media`  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20Saida%20Vali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaiksaidavali/)  
