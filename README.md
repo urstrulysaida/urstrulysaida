@@ -62,7 +62,9 @@ Guntur, Andhra Pradesh
 [![Zscaler Networking](https://img.shields.io/badge/Zscaler-Networking%20Virtual-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1AmbBgEeqkv45qOzodPugsVUiaunObl2U/view?usp=drive_link)  
 [![Fortinet Security](https://img.shields.io/badge/Fortinet-Network%20Security%20Associate-critical?style=for-the-badge&logo=fortinet&logoColor=white)](https://drive.google.com/file/d/1bGLpt7pwHiEaG9pvlNZnMlv7S35I3q5I/view?usp=drive_link)  
 [![Google AI-ML](https://img.shields.io/badge/Google-AI%20%26%20ML%20Virtual-success?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1O4RZUHQNE9HKNfz8TmnvIsOb81f5jDwp/view?usp=drive_link)
+
 ---
+
 # 🚀 `Projects`  
 
 [![Password Strength Tester](https://img.shields.io/badge/Project-Password%20Strength%20Tester-ff69b4?style=for-the-badge&logo=github&logoColor=white)](#)  
