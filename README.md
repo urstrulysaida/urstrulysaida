@@ -33,6 +33,14 @@ Guntur, Andhra Pradesh
 
 
 ---
+# 🛠️ Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
 # 📜 `Certifications`  
 
 [![Cyber Security](https://img.shields.io/badge/Google-Cyber%20Security-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1GQHLGxvDy1Q0kK9evMfOjfEfOn2-fI5A?usp=sharing)  
@@ -64,10 +72,11 @@ Guntur, Andhra Pradesh
 * #### Secure Microservices Architecture on Google Kubernetes Engine (GKE): Design and Deployment Strategies  
 
 [![Aquasense IoT](https://img.shields.io/badge/Project-Aquasense%20IoT-00CED1?style=for-the-badge&logo=arduino&logoColor=white)](#)  
-* #### Aquasense: An IoT-based Water Quality Management System using Arduino  
+* #### Aquasense: An IoT-based Water Quality Management System using Arduino
 
+  
+---
 
-#
 
 # 💼 `Experience`  
 
