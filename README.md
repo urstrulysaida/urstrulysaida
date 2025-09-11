@@ -22,7 +22,8 @@ Guntur, Andhra Pradesh
 [![B.Tech](https://img.shields.io/badge/B--Tech-Computer%20Science%20%26%20Engineering-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](#)  
 >## `B-TECH` 
 >>### Kakinada Institute of Engineering and Technology  
->>>#### Location: Andhra Pradesh, Kakinada - Korangi - 533461  
+>>>#### Location: Andhra Pradesh, Kakinada - Korangi - 533461
+>>>> #### 2022 - 2026 
 
 ---
 
