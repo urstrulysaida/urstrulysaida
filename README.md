@@ -2,17 +2,17 @@
 # `Shaik Saida Vali`  
 >## Student at Computer Science and Engineering
 >>#### CYBER SECURITY 
-<img src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Profile.jpeg" align="right" width="400" />
+<img src="https://github.com/urstrulysaida/urstrulysaida/blob/main/Github%20Profile.jpeg" align="right" width="390" />
 
 ```sh
 Avulavaripalem, 522411  
 Guntur, Andhra Pradesh  
 📞 +91 7674012184
 ```
->[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaiksaidavali.in@gmail.com)  
->>[![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shaiksaidavali)
+>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaiksaidavali.in@gmail.com)
+>>[![Follow me on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/shaiksaidavali) 
 >>>[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%207674012184-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917674012184)
->>>>[![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1UBfhBcEI_hzWj1KOlvlD4vjbkhmVV1ZNFayQrkroXZA/edit?usp=sharing)
+>>>> [![Resume](https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1UBfhBcEI_hzWj1KOlvlD4vjbkhmVV1ZNFayQrkroXZA/edit?usp=sharing)
 >>>>>[![Submit Form](https://img.shields.io/badge/Submit%20Form-Click%20Here-6f42c1?style=for-the-badge&logo=google-forms)](https://forms.gle/pjgGVqHYZ8jT1j8U8)
 >>>>>>[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/shaiksaidavali/home)
 ---
@@ -114,6 +114,9 @@ Guntur, Andhra Pradesh
 [![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)  
 [![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0F9D58?style=for-the-badge&logo=cloudflare&logoColor=white)](#)  
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)  
+[![System Design](https://img.shields.io/badge/System%20Design-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)](your-link-here)  
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0FFF?style=for-the-badge&logo=githubactions&logoColor=white)](your-link-here) 
+
 
 >## Actively building knowledge and projects in **Cloud Computing, Cloud Architecture, and Data Analytics**.  
 
@@ -147,6 +150,7 @@ Guntur, Andhra Pradesh
   </tr>
 </table>
 
+  
 
 
 
