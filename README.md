@@ -127,9 +127,6 @@ Guntur, Andhra Pradesh
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>  
-<a href="mailto:urstrulysaida.in@gmail.com">
-  <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="40" height="40"/>
-</a>
 
 ---
 
