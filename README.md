@@ -63,11 +63,17 @@ Guntur, Andhra Pradesh
 
 ---
 
-# 🏫 `AICTE Internship`  
+## 🏫 AICTE Virtual Internships
 
-[![Zscaler Networking](https://img.shields.io/badge/Zscaler-Networking%20Virtual-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1AmbBgEeqkv45qOzodPugsVUiaunObl2U/view?usp=drive_link)  
-[![Fortinet Security](https://img.shields.io/badge/Fortinet-Network%20Security%20Associate-critical?style=for-the-badge&logo=fortinet&logoColor=white)](https://drive.google.com/file/d/1bGLpt7pwHiEaG9pvlNZnMlv7S35I3q5I/view?usp=drive_link)  
-[![Google AI-ML](https://img.shields.io/badge/Google-AI%20%26%20ML%20Virtual-success?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1O4RZUHQNE9HKNfz8TmnvIsOb81f5jDwp/view?usp=drive_link)
+[![Zscaler Networking](https://img.shields.io/badge/Zscaler-Networking%20Virtual-blueviolet?style=for-the-badge&logo=zscaler&logoColor=white)](https://drive.google.com/file/d/1AmbBgEeqkv45qOzodPugsVUiaunObl2U/view?usp=drive_link)
+
+[![Fortinet Security](https://img.shields.io/badge/Fortinet-Network%20Security%20Associate-critical?style=for-the-badge&logo=fortinet&logoColor=white)](https://drive.google.com/file/d/1bGLpt7pwHiEaG9pvlNZnMlv7S35I3q5I/view?usp=drive_link)
+
+[![Google AI & ML](https://img.shields.io/badge/Google-AI%20%26%20ML%20Virtual-success?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1O4RZUHQNE9HKNfz8TmnvIsOb81f5jDwp/view?usp=drive_link)
+
+[![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Virtual%20Internship-black?style=for-the-badge&logo=hackthebox&logoColor=green)](https://drive.google.com/file/d/1gXGAQ-W92tTVBiNBNISdAlXM3tYSF6Z_/view?usp=sharing)
+
+[![Automation](https://img.shields.io/badge/Automation-Virtual%20Internship-informational?style=for-the-badge&logo=githubactions&logoColor=white)](https://drive.google.com/file/d/1iTvnbJdyDNZzmsNNKVRAK5gixOXWtnzk/view?usp=sharing)
 
 ---
 
