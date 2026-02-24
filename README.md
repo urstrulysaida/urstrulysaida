@@ -53,6 +53,10 @@ Guntur, Andhra Pradesh
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)[![AWS Cloud Tech](https://img.shields.io/badge/AWS-Cloud%20Tech%20Consultant-red?style=for-the-badge&logo=amazons3&logoColor=white)](https://drive.google.com/drive/folders/1QVr7fmnA-DpbHwySLg4d1lC8sA1RaURP?usp=drive_link)
 
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)[![Microsoft Power BI Data Analyst](https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://drive.google.com/drive/folders/1VZU27_VVrs6u3sHe6CFU7ho4OKTGsHtL?usp=sharing)
+
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)[![Google AI](https://img.shields.io/badge/Google-AI-purple?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/drive/folders/114g5rflkxgKwQzMhpV8YQek_3SF1uCcG?usp=drive_link)
+
 ---
 # 🏅 `Badges`
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F47B20&lines=Credly+Profile;Google+Developers+Profile)](https://www.credly.com/users/shaik-saida-vali) 
