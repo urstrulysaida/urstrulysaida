@@ -116,6 +116,7 @@ Developed an Arduino-based IoT system for real-time water quality monitoring, in
 | **Ethical Hacking Virtual Internship** | AICTE | [![View](https://img.shields.io/badge/View-black?style=flat-square)](https://drive.google.com/file/d/1gXGAQ-W92tTVBiNBNISdAlXM3tYSF6Z_/view?usp=sharing) |
 | **Automation Virtual Internship** | AICTE | [![View](https://img.shields.io/badge/View-informational?style=flat-square)](https://drive.google.com/file/d/1iTvnbJdyDNZzmsNNKVRAK5gixOXWtnzk/view?usp=sharing) |
 | **Data Analytics with Python & Power BI** | AICTE | [![View](https://img.shields.io/badge/View-yellow?style=flat-square)](https://drive.google.com/file/d/1UJYdCedwbdFuU51XRXuI73fTEqUz_KcI/view?usp=sharing) |
+| **Industrial Automation Virtual Internship** | AICTE | [![View](https://img.shields.io/badge/View-orange?style=flat-square)](https://drive.google.com/file/d/1ekgysjcx6G8NjQyFLI-SL5mQmp4WBQuD/view?usp=sharing) |
 
 ---
 
