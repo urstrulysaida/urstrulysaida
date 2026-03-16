@@ -1,6 +1,5 @@
-<div align="center">
 
-<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Banner" width="100%" style="border-radius: 8px;" />
+<div align="center">
 
 <br/>
 
