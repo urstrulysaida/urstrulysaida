@@ -1,8 +1,8 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Shaik%20Saida%20Vali&fontSize=60&fontAlignY=35&desc=Cyber%20Security%20%7C%20Cloud%20Architecture%20%7C%20Data%20Analytics&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header Banner"/>
 
-# Shaik Saida Vali
+<br/>
 
 **B.Tech Computer Science & Engineering · Cyber Security Specialization**
 
